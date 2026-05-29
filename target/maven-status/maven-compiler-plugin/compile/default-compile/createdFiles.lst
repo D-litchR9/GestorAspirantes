@@ -1,0 +1,5 @@
+bean/UsuarioBean.class
+model/Usuario.class
+service/UsuarioService.class
+bean/TestCdiBean.class
+util/EntityManagerUtil.class
